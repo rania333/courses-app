@@ -1,0 +1,44 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#signupBody {
+    background-image: url("./course-background+\(1\)+\(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: rgb(231, 231, 231);
+}
+
+#signup {
+    width: 40%;
+    margin-top: 10%;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+#signup button {
+    width: 100%;
+}
+
+
+/**************************** home *******************************/
+.homeBody {
+    background-color: #fff9f9a2;
+}
+.homeBody nav {
+    background-color: #D77FA1;
+}
+#save {
+    width: 100%;
+}
+
+#filterid {
+    font-size: 2em;
+    font-weight: bolder;
+    color: #D77FA1;
+}
